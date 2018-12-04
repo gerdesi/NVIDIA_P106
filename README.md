@@ -1,5 +1,17 @@
 # NVIDIA_P106
 NVIDIA P106 GPUs
+
+
+----------------------------------------
+Thanks for help！
+DWITG
+3440
+萌新小姐姐的施工队
+zpl8150
+刘sir
+----------------------------------------
+
+
 Modify the'nv_dispi.inf'
 Open it with Notepad++
 Delete the following
